@@ -19,7 +19,7 @@ Brick Breaker 碎磚機
 * **簡介**
     * 這是一款利用滑鼠進行打磚塊的視窗遊戲
     * 由 Java, JavaFX, CSS, Scene Builder 開發
-    * 遊戲中所有背景設計圖源皆來自[麵包樹 Bread Tree](https://breadtree.art/wallpapers)
+    * 遊戲中所有背景設計圖源皆來自 [麵包樹 Bread Tree](https://breadtree.art/wallpapers)
 
 * **操作說明**
     * 進入 Menu 畫面後，遊戲共分為四種模式，難度依次增加，分別為：  
@@ -59,5 +59,6 @@ Brick Breaker 碎磚機
 
     ![](https://imgur.com/zo9GhjK.jpg)
 
-### Demo Video
-* [影片連結]()
+### Demo
+* [影片連結](https://youtu.be/EGLdm-RJlg0)
+* [PPT 連結](https://drive.google.com/file/d/1LYi7pKOdgUxs8zqufqjAUUV4samdQbJa/view?usp=sharing)
