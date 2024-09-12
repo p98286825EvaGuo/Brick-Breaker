@@ -32,27 +32,26 @@ Brick Breaker 碎磚機
 
     * 依照遊戲規則使用滑鼠進行遊戲  
 
-        ![](https://imgur.com/oNo9cAv.png)
-
-        ![](https://imgur.com/n81aPjv.png)
+        <img width="400" alt="image" src="https://imgur.com/oNo9cAv.png">
+        <img width="400" alt="image" src="https://imgur.com/n81aPjv.png">
 
     * 每回遊戲磚塊及炸彈**隨機產生**
 
     * 成功消除一個磚塊會出現**爆炸動畫**
 
-        ![](https://imgur.com/MzGWwME.png)
+        <img width="400" alt="image" src="https://imgur.com/MzGWwME.png">
 
     * 遊戲中可使用**暫停鍵**暫停遊戲  (Countdown Mode 例外)
 
-        ![](https://imgur.com/IWZozgw.png)
+        <img width="400" alt="image" src="https://imgur.com/IWZozgw.png">
 
     * 在 Simple Mode 及 Countdown Mode 中將所有磚塊消除後會出現**成功畫面**
 
-        ![](https://imgur.com/AB6kIWk.png)
+        <img width="400" alt="image" src="https://imgur.com/AB6kIWk.png">
 
     * Endless Mode 及 Times Mode 結束後會出現此次**遊戲得分**
 
-        ![](https://imgur.com/a3x69FD.png)
+        <img width="400" alt="image" src="https://imgur.com/a3x69FD.png">
 
 ### Class Diagram
 * [圖片網址](https://drive.google.com/file/d/1nZwDxmi31LlCk2jnq5P27p17Vk3Hlold/view?usp=drive_link)
